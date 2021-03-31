@@ -1,0 +1,2 @@
+# Modelo-Clasificaci-n-de-Futuros-Trabajadores
+Una empresa activa en Big Data y Data Science quiere contratar científicos de datos entre las personas que superan con éxito algunos cursos que imparte la misma. La empresa quiere saber cuáles de estos candidatos realmente quieren trabajar para la empresa después de la capacitación. Este trabajo pretende realizar un modelo que predecirá la probabilidad de que un candidato busque un nuevo trabajo o trabaje para la empresa como científico de datos. 
